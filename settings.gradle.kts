@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Platform Plugin Template"
+rootProject.name = "GTSA3S-Dev-JetBrains-intellij-template"
